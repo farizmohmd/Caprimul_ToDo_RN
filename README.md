@@ -6,7 +6,7 @@ A basic ToDo app using React Native, which includes :
 - Clear Items from the list
 
 Dependencies Used :
-@react-native-async-storage/async-storage
+@react-native-async-storage/async-storage,
 react-native-vector-icons
 
 
